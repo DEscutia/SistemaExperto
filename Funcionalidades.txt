@@ -1,0 +1,9 @@
+- Reconoce a algunos autores de la herbolaria.
+- Reconoce algunas obras de la herbolaria.
+- Reconoce alguno paises donde se desarrollo la herbolaria.
+- Tiene registradas algunas plantas.
+- Tiene registradas todas las formas en las que se pueden preparar las plantas.
+- Tiene registradas algunas enfermedades.
+- Tiene registradas algunas propiedades de las plantas. 
+- Reconoce que una planta A, puede curar una enfermedad B
+- Reconoce si una planta A, se convierte en un remedio B.
