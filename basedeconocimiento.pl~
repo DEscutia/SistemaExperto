@@ -1,4 +1,16 @@
 %Hechos
+autor(discorides, herbolaria).
+autor(hipocrates, herbolaria).
+autor(galeno, herbolaria).
+autor(kuang-ti, herbolaria).
+autor(li-che-ten, herbolaria).
+
+obras(el_papiro_ebers, herbolaria).
+obras(el_codice_badiano, herbolaria).
+
+desarollo(mexico, herbolaria).
+desarrollo(china, herbolaria).
+
 planta(menta).
 planta(anis).
 planta(manzanilla).
@@ -15,29 +27,21 @@ aplicacion(jarabe).
 aplicacion(tintura).
 aplicacion(horchata).
 
-propiedad(diuretico).
-propiedad(sudorifico).
-
-diuretico(provoca_orina).
-sudorifico(hace_sudar).
-
 enfermedad(anemia).
 enfermedad(anginas).
 enfermedad(hipertension).
 enfermedad(tifoidea).
 enfermedad(obesidad).
 enfermedad(laringitis).
-enfermedad(viruela).
-enfermedad(sarampion).
-enfermedad(varicela).
-enfermedad(gota).
-enfermedad(escarlatina).
-enfermedad(tos_bronquial).
-enfermadad(lombrices).
 
-parte_planta(hojas).
-parte_planta(flores).
-parte_planta(raiz).
+propiedades(hormonas).
+propiedades(vitaminas).
+propiedades(minerales).
+propiedades(proteinas).
+propiedades(metaloides).
+propiedades(enzimas).
+propiedades(alcaloides).
+propiedades(oligoelementos).
 
 
 cura(borraja, viruela).
